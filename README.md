@@ -1,4 +1,4 @@
-# 🎨 Color Palette Generator
+# 🎨 Colour Pelleting
 
 ## Overview
 Color Palette Generator is a design-focused project that helps create and customize aesthetically pleasing color schemes for creative, UI/UX, and web design projects. It enables users to explore harmonious color combinations that enhance visual consistency and user experience.
