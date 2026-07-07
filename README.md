@@ -19,3 +19,5 @@ Color Palette Generator is a design-focused project that helps create and custom
 - AI-powered palette suggestions
 - Export palettes in multiple formats
 - Dark/Light mode support
+
+This project uses K-Means Clustering to analyze an image, identify the five most dominant colors, calculate the percentage of each color, visualize the results, and generate a final annotated image showing the extracted color palette. It is useful for applications in graphic design, UI/UX, branding, image analysis, and color palette generation.
